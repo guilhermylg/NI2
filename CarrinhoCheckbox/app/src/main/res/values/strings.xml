@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">CarrinhoCompras</string>
+    <string name="arroz">Arroz 1kg - R$2,69</string>
+    <string name="leite">Leite longa vida - R$2,70</string>
+    <string name="carne">Carne Friboi - R$16,70</string>
+    <string name="feijao">Feijão carioquinha 1kg - R$3,38</string>
+    <string name="refri">Refrigerante Coca-Cola 2L - R$3,00</string>
+    <string name="calcular_total">Calcular Total</string>
+    <string name="limpar">Limpar</string>
+    <string name="total">Total: R$ 0.00</string>
+
+</resources>
