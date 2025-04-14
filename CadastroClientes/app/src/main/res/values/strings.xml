@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CadastroClientes</string>
+    <string name="logo_desc">Logotipo da loja</string>
+    <string name="boas_vindas">Bem-vindo a temdetudo.com.br!</string>
+    <string name="iniciar">Iniciar Cadastro</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="mensagem_boas_vindas">Mensagem de boas-vindas</string>
+    <string name="voltar">Voltar</string>
+    <string name="imagem_confirmacao">Imagem de cadastro completo</string>
+</resources>
