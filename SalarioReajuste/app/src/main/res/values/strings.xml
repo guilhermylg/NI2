@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SalarioReajuste</string>
+    <string name="digite_salario">Digite o salário</string>
+    <string name="aumento_40">Aumento de 40%</string>
+    <string name="aumento_45">Aumento de 45%</string>
+    <string name="aumento_50">Aumento de 50%</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="resultado">Novo salário: R$ 0.00</string>
+</resources>
